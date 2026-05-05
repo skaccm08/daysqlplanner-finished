@@ -19,11 +19,11 @@ app.add_middleware(
 )
 def getdb():
     return mysql.connector.connect(
-        host="127.0.0.1",
+        host="****",
         port=3307,
-        user="avva.sanjay",
-        password="ccm0977604",
-        database="avva_sanjay",
+        user="****",
+        password="****",
+        database="****",
         connection_timeout=5
     )
 def singqoterfcr(value): #helper funcs
