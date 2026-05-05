@@ -3,8 +3,8 @@ Project Prerequisites: Node.js, pip, python3.14.4
 2) Download all branches, donwload all required packages
 3) cd to frontend foder, npm install
 4) open ssh pipe to MySQL server, run:
-   - uvicorn main:app --reload in backend
-   - npm i and npm run dev in frontend
+   - uvicorn main:app --reload (in backend, FastAPI)
+   - npm i and npm run dev (in frontend, NextJS)
 5) open desired port/localhost to view
 
 Project Background / Proposal 
