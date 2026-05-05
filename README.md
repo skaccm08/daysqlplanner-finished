@@ -1,9 +1,9 @@
 # MySQL web event manager
 
 Project Prerequisites: Node.js, pip, python3.14.4
-1) Install NodeJs and Project Pre requesites
+1) Install NodeJs and Project Pre-requisites
 2) Download all branches, donwload all required packages
-3) cd to frontend foder, npm install
+3) cd to frontend folder, npm install
 4) open ssh pipe to MySQL server, then run:
    - uvicorn main:app --reload (in backend, FastAPI)
    - npm i and npm run dev (in frontend, NextJS)
