@@ -1,4 +1,4 @@
-#MySQL web event manager
+# MySQL web event manager
 
 Project Prerequisites: Node.js, pip, python3.14.4
 1) Install NodeJs and Project Pre requesites
